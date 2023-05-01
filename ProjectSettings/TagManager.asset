@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Floor
+  - ScorePoint
+  - Pipe
   layers:
   - Default
   - TransparentFX
@@ -38,6 +41,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2956130593
+    locked: 0
+  - name: Floor
+    uniqueID: 3656297
+    locked: 0
+  - name: Bird
+    uniqueID: 1678637845
+    locked: 0
+  - name: Pipe
+    uniqueID: 3626730701
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
